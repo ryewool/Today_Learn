@@ -23,9 +23,15 @@
 - 팀별 프로젝트를 수행한다.
 [학습 내용]
 ==========================
-(1) 리뷰(파이썬 라이브러리) 및 실습
-(2) 
-(3) 팀별 프로젝트 중간 - 10:05 (2-3분 - 현재까지 진행된 상황.)
+(1) 리뷰(파이썬 라이브러리)
+(2) 팀별 프로젝트 중간 발표 내용 정리
     - 팀별 피드백
-(5)과제 체크 및 제출 ( tkinter 제출, 영화 10page 제출, folium 제출)
-https://docs.google.com/spreadsheets/d/1W0VSxGMdj5MypceJ0guItha1IdW_Y-2YmEfRM-O-gRw/edit?usp=sharing
+    - 좋았던 점. 좀더 나은 것을 위한 개선점.
+(3) 타이타닉, Bike Sharing Demand의 데이터 처리 및 시각화
+    - 05_파이썬라이브러리 - unit08_data_project
+	
+(4) 과제 체크 및 제출 ( tkinter 제출, 영화 10page 제출, folium 제출, konlpy) - 수요일
+06/14 tkinter 제출
+06/17 영화 10page 제출
+06/29 folium 제출
+06/30 konlpy 제출
