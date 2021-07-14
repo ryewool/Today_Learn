@@ -19,14 +19,16 @@
  - 추후 보강 예정.
 ### 내용
 ==========================
-[자료 위치] 07_머신러닝_기본다지기
+자료 위치] 07_머신러닝_기본다지기
 code :
-https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch01_01_ML_start_v10.html
-https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_01_knn_code.html
-(1) 라이브러리 정리
-(2) 나의 첫 모델 만들기 - 실습
-(3) 머신러닝 알아보기
-	
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch02_01_knn_linear_ppt/ch02_knn_%ED%9A%8C%EA%B7%80_v114_202107.pdf
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_02_linear_code_v10.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_03_ridge_lasso.html
+(1) 지난 시간 리뷰
+(2) 회귀 분석 및 리지,라소 알아보기
+(3) 개별 대회 분석(3교시, 6교시, 7교시)
+     - 데이터 오류 해결 및 회귀 분석 모델 만들기
+	 - 회귀분석 모델 및 릿지,라소 적용해보기
 (4) 팀별 시간
 (5) 하루 정리 및 마무리
 ==================
