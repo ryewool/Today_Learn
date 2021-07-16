@@ -19,11 +19,19 @@
  - 추후 보강 예정.
 ### 내용
 ==========================
-자료 위치] 07_머신러닝_기본다지기
+[자료 위치] 07_머신러닝_기본다지기 -
+code :
+https://github.com/LDJWJ/ML_Basic_Class
+### 머신러닝 - 의사결정트리
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_02_decisionTree_diabetes_colab.html
+### 머신러닝 - 앙상블_랜덤포레스트(1), (2), (3)
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_01.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_02.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_03.html
 (1) 지난 시간 리뷰
-(2) 의사결정 트리 및 앙상블 알아보기
-(3) 개별 대회 분석( 6교시, 7교시)
-     - 의사결정 트리 만들기, 랜덤포레스트 만들기
-(4) 팀별 시간
+(2) 의사결정트리, 앙상블 알아보기
+(3) 앙상블 기법(RandomForest) 이해 및 실습
+(4) 데이콘 대회 기본 및 실습
 (5) 하루 정리 및 마무리
+(6) 대회 면담(6교시, 7교시)
 ==================
