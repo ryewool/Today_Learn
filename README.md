@@ -28,10 +28,11 @@ https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_02_decisionTree_diabete
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_01.html
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_02.html
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_03.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_05_gradient_boosting_class_v11.html
 (1) 지난 시간 리뷰
 (2) 의사결정트리, 앙상블 알아보기
-(3) 앙상블 기법(RandomForest) 이해 및 실습
-(4) 데이콘 대회 기본 및 실습
+(3) 앙상블 기법(RandomForest), 그래디언트 부스팅(Gradient Boosting) 이해 및 실습
+(4) 데이콘 대회 기본 및 실습(6교시, 7교시)
 (5) 하루 정리 및 마무리
 (6) 대회 면담(6교시, 7교시)
 ==================
